@@ -22,7 +22,7 @@ _____________
 ### Setup Awal
 
 ```
-wget -O qb.sh https://raw.githubusercontent.com/SaujanaOK/Node-TestNet-Guide/main/Q%20Blockchain/qb.sh && chmod +x qb.sh && ./qb.sh
+wget -O qb.sh https://raw.githubusercontent.com/ArumaSanjayani/Node/main/Q%20Blockchain/qb.sh && chmod +x qb.sh && ./qb.sh
 ```
 _____________
 
